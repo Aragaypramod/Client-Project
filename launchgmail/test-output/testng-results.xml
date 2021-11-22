@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-22T19:04:43 IST" name="Suite" finished-at="2021-11-22T19:04:58 IST" duration-ms="15519">
+    <groups>
+    </groups>
+    <test started-at="2021-11-22T19:04:43 IST" name="Test" finished-at="2021-11-22T19:04:58 IST" duration-ms="15519">
+      <class name="com.gmailtest.launchgmail.AppTest">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:com.gmailtest.launchgmail.AppTest@4fb3ee4e]" started-at="2021-11-22T19:04:43 IST" name="launchbrowser" finished-at="2021-11-22T19:04:51 IST" duration-ms="8617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="lauchgmail()[pri:0, instance:com.gmailtest.launchgmail.AppTest@4fb3ee4e]" started-at="2021-11-22T19:04:51 IST" name="lauchgmail" finished-at="2021-11-22T19:04:58 IST" duration-ms="6582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchgmail -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.gmailtest.launchgmail.AppTest@4fb3ee4e]" started-at="2021-11-22T19:04:58 IST" name="closebrowser" finished-at="2021-11-22T19:04:58 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.gmailtest.launchgmail.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
